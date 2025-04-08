@@ -32,7 +32,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/RafaelyRezende/RafaelyRezende/output/snake.svg" alt="Snake animation" />
-
-###
