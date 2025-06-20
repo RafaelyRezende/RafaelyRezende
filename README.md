@@ -1,8 +1,8 @@
-<h1 align="left">Ocuppation</h1>
+<h1 align="left">whoami</h1>
 
 ###
 
-<p align="left">Software developer student at 42 Porto.</p>
+<p align="left">/home/"Rafael Luis Yanase de Rezende"/"Software developer student at 42 Porto"</p>
 
 ###
 
