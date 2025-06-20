@@ -1,8 +1,8 @@
-<h1 align="left">Hello there 👋</h1>
+<h1 align="left">Ocuppation</h1>
 
 ###
 
-<p align="left">My name is Rafael and I'm a 42 student, from Curitiba-PR currently in Porto.</p>
+<p align="left">Software developer student at 42 Porto.</p>
 
 ###
 
@@ -10,7 +10,13 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning C/C++<br>🎯 Goals: Finish 42 Common Core<br>🎲 Fun fact: I am</p>
+<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning C/C++<br>🎯 Goals: Finish 42 Common Core<br>🎲 Fun fact: I am from Brazil.</p>
+<div> <a href="https://www.linkedin.com/in/rafaellyrezende" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://github.com/RafaelyRezende" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+</div><h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/rafaellyrezende" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="linkedin RafaelyRezende" height="30" width="40" /></a></p>
+
 
 ###
 
@@ -22,6 +28,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
 
 ###
