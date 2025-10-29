@@ -11,10 +11,14 @@
 ###
 
 <p align="left"><strong>Software developer student at 42 Porto.</strong></p>
-<p align="left">✨ Creating bugs since 2021</p>
 <p align="left">📚 I'm currently learning C/C++</p>
-<p align="left">🎯 Goals: Finish 42 Common Core</p>
-<p align="left">🎲 Fun fact: I am from Brazil.</p>
+
+| Goals | Description |
+| :--- | :--- |
+| **Finish 42CommonCore** | Keep swimming... |
+| **Experience in SWE** | Exercise professional work in software engineering. |
+| **Lauch Chess Club Projects** | Move foward all software initiatives of 42ChessClub. |
+| **Port FdF to Web** | Integrate FdF project with web technologies (possibly refactor). |
 
 <div> <a href="https://www.linkedin.com/in/rafaellyrezende" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/RafaelyRezende" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
