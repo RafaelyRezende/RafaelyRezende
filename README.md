@@ -17,7 +17,7 @@
 | :--- | :--- |
 | **Finish 42CommonCore** | Keep swimming... |
 | **Experience in SWE** | Exercise professional work in software engineering. |
-| **Lauch Chess Club Projects** | Move foward all software initiatives of 42ChessClub. |
+| **Lauch Chess Club Projects** | Move forward all software initiatives of 42ChessClub. |
 | **Port FdF to Web** | Integrate FdF project with web technologies (possibly refactor). |
 
 <div> <a href="https://www.linkedin.com/in/rafaellyrezende" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
