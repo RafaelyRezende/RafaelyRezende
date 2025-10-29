@@ -10,8 +10,8 @@
 
 ###
 
-<p align="left"><strong>Software developer student at 42 Porto.</strong></p>
-<p align="left">📚 I'm currently learning C/C++</p>
+<p align="left">I am currently a <strong>software developer student at 42 Porto.</strong>.</p>
+<p align="left">📚 Main languages C/C++</p>
 
 | Goals | Description |
 | :--- | :--- |
