@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">I am currently a <strong>software developer student at 42 Porto</strong>.</p>
+<p align="left"><strong>Embedded Software Engineer && 42 Porto Cadet</strong>.</p>
 <p align="left">📚 Main languages C/C++</p>
 
 | Goals | Description |
