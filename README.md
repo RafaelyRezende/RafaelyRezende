@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left"><strong>Embedded Software Engineer && 42 Porto Cadet</strong>.</p>
+<p align="left"><strong>Embedded Software Engineer @ Critical Flytech && 42 Porto Cadet</strong>.</p>
 <p align="left">📚 Main languages C/C++</p>
 
 | Goals | Description | Status |
